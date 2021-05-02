@@ -1,0 +1,6 @@
+# npm packages
+node_modules/
+yarn.lock
+
+# config file, contains the discord bot token.
+config.json

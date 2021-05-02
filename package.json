@@ -1,0 +1,13 @@
+{
+  "name": "buzz-bot",
+  "version": "1.0.0",
+  "description": "woof",
+  "main": "buzz.js",
+  "repository": "https://github.com/SeppahBaws/buzz-bot",
+  "author": "Seppe Dekeyser <seppe@dva.be>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
